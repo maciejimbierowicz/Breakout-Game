@@ -1,3 +1,3 @@
 # Breakout-Game
 
-Classic Breakout game made with Python tkinter framework.
+Classic Breakout game made with Python Turtle framework.
